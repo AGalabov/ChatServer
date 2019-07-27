@@ -2,7 +2,7 @@
 FMI "Modern Java Technologies" 2017 - Course Project
 
 ## Overview
-MJT FMI 2k17 Course Project - Console chat server
+Console chat server
 
 ## Functionality
 * The server handles multiple user's requests simultaneously.
